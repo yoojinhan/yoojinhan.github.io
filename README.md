@@ -83,8 +83,8 @@ Proven ability to bridge technical and business domains, having collaborated wit
 ## 📢 Conference
 
 **KSME CAE & Applied Mechanics Spring Conference 2025**  
-Presenter: *"DEM × RomAI: Industrial Particle Analysis Applications in Manufacturing"*  
-(Abstract in Korean: 대한기계학회 CAE 및 응용역학부문 2025년도 춘계학술대회)
+Presenter: *"EDEM × RomAI: Industrial Particle Analysis Applications in Manufacturing"*  
+(Korean: 대한기계학회 CAE 및 응용역학부문 2025년도 춘계학술대회)
 
 ---
 
