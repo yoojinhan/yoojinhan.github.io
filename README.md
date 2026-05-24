@@ -10,7 +10,7 @@
 
 Engineering professional with 2+ years applying **Python automation**, **AI/ML predictive modelling**, and data-driven workflows to complex industrial problems — including battery electrode simulation, cathode particle databases, and manufacturing process optimisation.
 
-Proven ability to bridge technical and business domains, having collaborated with global OEMs (**Samsung SDI, LG Energy Solutions**) and research institutes (**KETI**). Deeply motivated by the clean energy transition and eager to bring AI-powered engineering expertise to Hanwha Energy Australia's next-generation energy platform.
+Proven ability to bridge technical and business domains, having collaborated with global OEMs (**Samsung SDI, LG Energy Solutions**) and research institutes (**KETI**).
 
 ---
 
