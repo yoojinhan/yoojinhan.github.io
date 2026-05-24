@@ -70,7 +70,7 @@ Proven ability to bridge technical and business domains, having collaborated wit
 **Lotte** | *2024*
 
 - Applied **DEM simulation + ML prediction** to optimise a manufacturing coating process
-- [Project Overview](https://drive.google.com/file/d/1f_z3rFPNa1MnUe60v4TZOrcJXTU6zh5V/view?usp=sharing) · [Simulation & Data Analysis:Compressive Force](https://drive.google.com/file/d/1J2z0E1aHpEo_ncgvgk-iEbNCZXW7ma6v/view?usp=sharing) · [Simulation & Data Analysis:Mass](https://drive.google.com/file/d/1brWCMhDLOl55tn-U0IcZBw_i772BbmtA/view?usp=sharing) · [Simulation & Data Analysis:Coating volume distribution](https://drive.google.com/file/d/1CaRMYX8rN_lOIFOmShp8HNNZmbJ26MZ1/view?usp=sharing) · [ML & AI Prediction](https://drive.google.com/file/d/1mQNY1lG3fT8ssUJgh62TBeDxpK4Ev7za/view?usp=sharing)
+- [Project Overview](https://drive.google.com/file/d/1f_z3rFPNa1MnUe60v4TZOrcJXTU6zh5V/view?usp=sharing) · [Simulation & Data Analysis_Compressive Force](https://drive.google.com/file/d/1J2z0E1aHpEo_ncgvgk-iEbNCZXW7ma6v/view?usp=sharing) · [Simulation & Data Analysis_Mass](https://drive.google.com/file/d/1brWCMhDLOl55tn-U0IcZBw_i772BbmtA/view?usp=sharing) · [Simulation & Data Analysis_Coating volume distribution](https://drive.google.com/file/d/1CaRMYX8rN_lOIFOmShp8HNNZmbJ26MZ1/view?usp=sharing) · [ML & AI Prediction](https://drive.google.com/file/d/1mQNY1lG3fT8ssUJgh62TBeDxpK4Ev7za/view?usp=sharing)
 
 ---
 
