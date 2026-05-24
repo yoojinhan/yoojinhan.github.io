@@ -64,13 +64,13 @@ Proven ability to bridge technical and business domains, having collaborated wit
 
 - Contributed simulation data to a national consortium building an AI-powered electrode development simulator
 - Directly relevant to **BESS cell design optimisation** and data-driven energy storage R&D
-- [Project Overview](https://drive.google.com/file/d/10Jy8lgb4sxYrjl7s6xBFnG1xyHnL3iGp/view) · [AI Simulator Results](https://drive.google.com/file/d/1PFEbgpefJCjEb0hNllYTZLYfUX04uEkX/view)
+- [Project Overview](https://drive.google.com/file/d/1if7ffKMYKGHm1APK3-u7Z333FLOLL77n/view?usp=sharing) · [AI Simulator Results](https://drive.google.com/file/d/1a08-Ihv__oHMeoyfstYzy3iWHaKRV_34/view?usp=sharing)
 
 ### Gum Coating Process Optimisation
 **Lotte** | *2024*
 
 - Applied **DEM simulation + ML prediction** to optimise a manufacturing coating process
-- [Project Overview](https://drive.google.com/file/d/1KWIM5s7uiiBcWFuSVPiWj9lDy41PdGU4/view) · [Simulation & Data Analysis](https://drive.google.com/file/d/1fM0JyIFJqTFqLaSByHXR2X1a4qlkb7OE/view) · [ML & AI Prediction](https://drive.google.com/file/d/1MaH7kOPMBWD5RsG3LUOfzAJqsU5vwZYV/view)
+- [Project Overview](https://drive.google.com/file/d/1f_z3rFPNa1MnUe60v4TZOrcJXTU6zh5V/view?usp=sharing) · [Simulation & Data Analysis:Compressive Force](https://drive.google.com/file/d/1J2z0E1aHpEo_ncgvgk-iEbNCZXW7ma6v/view?usp=sharing) · [Simulation & Data Analysis:Mass](https://drive.google.com/file/d/1brWCMhDLOl55tn-U0IcZBw_i772BbmtA/view?usp=sharing) · [Simulation & Data Analysis:Coating volume distribution](https://drive.google.com/file/d/1CaRMYX8rN_lOIFOmShp8HNNZmbJ26MZ1/view?usp=sharing) · [ML & AI Prediction](https://drive.google.com/file/d/1mQNY1lG3fT8ssUJgh62TBeDxpK4Ev7za/view?usp=sharing)
 
 ---
 
@@ -85,7 +85,7 @@ Proven ability to bridge technical and business domains, having collaborated wit
 **KSME CAE & Applied Mechanics Spring Conference 2025**  
 Presenter: *"EDEM × RomAI: Industrial Particle Analysis Applications in Manufacturing"*  
 (Korean: 대한기계학회 CAE 및 응용역학부문 2025년도 춘계학술대회)
-- [Info](https://drive.google.com/file/d/1Kc1fyPeFNeN8NUiudfxCHB2C5tTrBmnY/view?usp=drive_link) [Abstract](https://drive.google.com/file/d/1vQzTFI_QC3rIahHIryOnXqaixNS14Wls/view?usp=sharing)
+- [Info](https://drive.google.com/file/d/1Kc1fyPeFNeN8NUiudfxCHB2C5tTrBmnY/view?usp=drive_link) · [Abstract](https://drive.google.com/file/d/1vQzTFI_QC3rIahHIryOnXqaixNS14Wls/view?usp=sharing)
 
 ---
 
