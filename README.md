@@ -1,5 +1,5 @@
 # Profile
-# Yoojin Han — AI & Tech Associate
+# AI & Tech Associate
 
 > **AI-Powered Engineer** | Python · ML/AI Workflows · Battery Energy Domain  
 > 📧 yoojinhanai@gmail.com · 📞 +82 010-3116-5851 · 🔗 [linkedin.com/in/yoojinai](http://www.linkedin.com/in/yoojinai/)
